@@ -8,3 +8,6 @@ Recommendations were given based on the analysis to improve the countryside mark
 * The listing data we used could be downloaded here: [2020-08-24-listings](https://github.com/jreades/i2p/raw/master/data/src/2020-08-24-listings.csv.gz)
 
 * The London borough data could be downloaded here: [Boroughs.gpkg](https://github.com/jreades/fsds/raw/master/data/src/Boroughs.gpkg)
+* The "textual.zip" is a module for document nomalisation, if you want to test the code, you need to download that file and unzip it into the same path of your own project.
+
+
